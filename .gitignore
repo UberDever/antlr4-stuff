@@ -2,6 +2,5 @@
 *.interp
 *.tokens
 tree.lisp
-go.sum
 .vscode
 .antlr
